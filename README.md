@@ -26,7 +26,7 @@
 
 ## 🍓 Projects
 
-### 🐥 [마음일기 기록장](https://claude.ai/chat/8c2a0df5-2aa4-4932-9483-c4393f66359e?artifactId=mood_diary&versionUuid=078a8b63-4cc1-4f10-a4e0-b9e9c4fc87f9))
+### 🐥 [마음일기 기록장]([https://claude.ai/chat/8c2a0df5-2aa4-4932-9483-c4393f66359e?artifactId=mood_diary&versionUuid=078a8b63-4cc1-4f10-a4e0-b9e9c4fc87f9](https://claude.ai/public/artifacts/734aceda-21a4-4be5-b486-04fc0b5a1a43)
 
 자신의 감정을 귀여운 이모지로 기록할 수 있는 마음일기 기록장
 
